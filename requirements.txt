@@ -3,3 +3,7 @@ openpyxl
 statsmodels
 statstests
 ipykernel
+seaborn
+scipy
+matplotlib
+numpy
