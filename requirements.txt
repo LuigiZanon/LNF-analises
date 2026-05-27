@@ -7,3 +7,4 @@ seaborn
 scipy
 matplotlib
 numpy
+scikit-learn
